@@ -38,12 +38,26 @@
 `opencode`, `ai-factory`, `GitHub`, `CLI workflows`
 
 ## Featured Projects
+
+Основной AI-focused набор для профиля и pinned repositories:
+
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
 | [install_ubuntu](https://github.com/RoKols2017/install_ubuntu) | Практический self-hosted stack setup: Ubuntu server, Docker, n8n, Supabase, Redis, pgvector and AI-ready infra. | Shell, Docker, Linux, DevOps | public |
 | [video_hw_proxyapi](https://github.com/RoKols2017/video_hw_proxyapi) | Workflow генерации видео через ProxyAPI с общим backend, CLI, Telegram bot и Flask interface. | Python, Flask, Telegram, Docker | public |
 | [my_llm_bot](https://github.com/RoKols2017/my_llm_bot) | Telegram-бот с переключаемыми LLM backend'ами для сравнения и интеграции GigaChat / YandexGPT. | Python, aiogram, LLM APIs | public |
 | [advisor-dj](https://github.com/RoKols2017/advisor-dj) | Django-система для импорта, мониторинга и аналитики печатных событий с watcher-пайплайном. | Python, Django, Docker | public |
+
+Рекомендуемый порядок pin:
+1. `install_ubuntu`
+2. `video_hw_proxyapi`
+3. `my_llm_bot`
+4. `advisor-dj`
+
+## Additional Projects
+
+| Project | Description | Stack | Status |
+| --- | --- | --- | --- |
 | [sales-analyzer](https://github.com/RoKols2017/sales-analyzer) | Веб-инструмент для импорта CSV, расчёта KPI и построения sales dashboards. | Python, analytics, dashboards | public |
 | [recipe-platform](https://github.com/RoKols2017/recipe-platform) | Product-style Django project with auth flows, content logic and structured web architecture. | Python, Django | public |
 
@@ -60,6 +74,8 @@
 - structured outputs
 - evaluation mindset
 - automation
+- LLM integrations
+- multimodal workflows
 - technical documentation
 - deployment basics
 
