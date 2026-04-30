@@ -1,96 +1,128 @@
-<h1 align="center">Roman | RoKols2017</h1>
+<h1 align="center">Роман (RoKols)</h1>
 <p align="center">Prompt Engineer • AI Automation Specialist • Python / DevOps Practitioner</p>
-<p align="center">Проектирую LLM-ассистентов, automation pipelines и practical AI tooling, которые можно запускать, проверять и дорабатывать как инженерные системы.</p>
+<p align="center">Проектирую LLM-ассистентов, automation pipelines и practical AI tools, которые можно запускать, проверять и развивать как инженерные системы.</p>
 
-## About
+<p align="center">
+  <a href="https://github.com/RoKols2017">GitHub</a> •
+  <a href="mailto:RoKols2017@gmail.com">Email</a>
+</p>
+
+## Кто я
+
 Я работаю на стыке `Prompt Engineering`, `LLM Applications`, `Python automation` и `DevOps-friendly AI tooling`.
 
-Основной фокус: собрать полезный AI-сценарий end-to-end, а не просто подключить модель. Это значит:
-- продумать входы и ограничения
-- оформить prompts и structured outputs
-- собрать интеграции и runtime
-- описать запуск, окружение и ограничения
-- показать кейс так, чтобы его можно было оценить работодателю или клиенту
+Для меня сильный AI-проект - это не просто подключённая модель, а понятная система:
+- с продуманными входами и ограничениями
+- с внятным prompt layer
+- с интеграциями и runtime-логикой
+- с документацией, примерами и сценариями запуска
+- с результатом, который можно показать работодателю или клиенту
 
-## Core Focus
-- Prompt Engineering
-- LLM Applications
-- AI Automation
-- Python Tools
-- Docker / Linux / VPS
-- Evaluation / Prompt Testing
-- Multimodal AI
+## Основной фокус
 
-## Tech Stack
-### AI / LLM
-`OpenAI API`, `Prompt Design`, `Structured Outputs`, `RAG concepts`, `Multimodal workflows`, `GigaChat`, `YandexGPT`
+<table>
+  <tr>
+    <td>Prompt Engineering</td>
+    <td>LLM Applications</td>
+    <td>AI Automation</td>
+  </tr>
+  <tr>
+    <td>Python Tools</td>
+    <td>Docker / Linux / VPS</td>
+    <td>Multimodal AI</td>
+  </tr>
+  <tr>
+    <td>Evaluation / Prompt Testing</td>
+    <td>Technical Documentation</td>
+    <td>CLI workflows</td>
+  </tr>
+</table>
 
-### Backend / Automation
-`Python`, `Flask`, `Django`, `Telegram bots`, `HTTP integrations`, `CSV/JSON processing`
+## Технологический стек
 
-### DevOps
-`Docker`, `Docker Compose`, `Linux`, `VPS deployment`, `Nginx`, `Environment-based configuration`
+**AI / LLM**  
+`OpenAI API` `Prompt Design` `Structured Outputs` `RAG concepts` `Multimodal workflows` `GigaChat` `YandexGPT`
 
-### Documentation
-`README architecture`, `setup guides`, `examples`, `deployment notes`, `technical documentation`
+**Backend / Automation**  
+`Python` `Flask` `Django` `Telegram bots` `HTTP integrations` `CSV/JSON processing`
 
-### Tools
-`opencode`, `ai-factory`, `GitHub`, `CLI workflows`
+**DevOps**  
+`Docker` `Docker Compose` `Linux` `VPS deployment` `Nginx` `Environment-based configuration`
 
-## Featured Projects
+**Инструменты**  
+`opencode` `ai-factory` `GitHub` `CLI workflows`
 
-Основной AI-focused набор для профиля и pinned repositories:
+## Избранные проекты
 
-| Project | Description | Stack | Status |
-| --- | --- | --- | --- |
-| [install_ubuntu](https://github.com/RoKols2017/install_ubuntu) | Практический self-hosted stack setup: Ubuntu server, Docker, n8n, Supabase, Redis, pgvector and AI-ready infra. | Shell, Docker, Linux, DevOps | public |
-| [video_hw_proxyapi](https://github.com/RoKols2017/video_hw_proxyapi) | Workflow генерации видео через ProxyAPI с общим backend, CLI, Telegram bot и Flask interface. | Python, Flask, Telegram, Docker | public |
-| [my_llm_bot](https://github.com/RoKols2017/my_llm_bot) | Telegram-бот с переключаемыми LLM backend'ами для сравнения и интеграции GigaChat / YandexGPT. | Python, aiogram, LLM APIs | public |
-| [advisor-dj](https://github.com/RoKols2017/advisor-dj) | Django-система для импорта, мониторинга и аналитики печатных событий с watcher-пайплайном. | Python, Django, Docker | public |
+<table>
+  <tr>
+    <th>Проект</th>
+    <th>Описание</th>
+    <th>Стек</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RoKols2017/install_ubuntu"><code>install_ubuntu</code></a></td>
+    <td>Self-hosted AI-ready infrastructure: Ubuntu server, Docker, n8n, Supabase, Redis, pgvector.</td>
+    <td>Shell, Docker, Linux, DevOps</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RoKols2017/video_hw_proxyapi"><code>video_hw_proxyapi</code></a></td>
+    <td>Workflow генерации видео через ProxyAPI с общим backend, CLI, Telegram bot и Flask interface.</td>
+    <td>Python, Flask, Telegram, Docker</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RoKols2017/my_llm_bot"><code>my_llm_bot</code></a></td>
+    <td>Telegram-бот с переключаемыми LLM backend'ами для сравнения и интеграции GigaChat / YandexGPT.</td>
+    <td>Python, aiogram, LLM APIs</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RoKols2017/advisor-dj"><code>advisor-dj</code></a></td>
+    <td>Django-система для импорта, мониторинга и аналитики печатных событий с watcher-пайплайном.</td>
+    <td>Python, Django, Docker</td>
+  </tr>
+</table>
 
-Рекомендуемый порядок pin:
+**Рекомендуемый порядок pin:**
 1. `install_ubuntu`
 2. `video_hw_proxyapi`
 3. `my_llm_bot`
 4. `advisor-dj`
 
-## Additional Projects
+## Дополнительные проекты
 
-| Project | Description | Stack | Status |
-| --- | --- | --- | --- |
-| [sales-analyzer](https://github.com/RoKols2017/sales-analyzer) | Веб-инструмент для импорта CSV, расчёта KPI и построения sales dashboards. | Python, analytics, dashboards | public |
-| [recipe-platform](https://github.com/RoKols2017/recipe-platform) | Product-style Django project with auth flows, content logic and structured web architecture. | Python, Django | public |
+| Проект | Что показывает |
+| --- | --- |
+| [sales-analyzer](https://github.com/RoKols2017/sales-analyzer) | Аналитика, KPI, обработка данных и dashboard-oriented thinking |
+| [recipe-platform](https://github.com/RoKols2017/recipe-platform) | Product-style Django development и структурированный web project |
+| [PE4.3](https://github.com/RoKols2017/PE4.3) | TTS-oriented prototype и работа с voice generation flow |
+| [video_hend](https://github.com/RoKols2017/video_hend) | Computer vision prototype и real-time processing |
 
-## Case Studies
-Ниже проекты, которые можно рассматривать как учебные или transitional cases, но они полезны как демонстрация практики:
+## Что я демонстрирую
 
-- [PE4.3](https://github.com/RoKols2017/PE4.3): TTS-oriented prototype around ElevenLabs and voice generation flow.
-- [Food_ordering_system](https://github.com/RoKols2017/Food_ordering_system): Telegram ordering bot as a case of bot flows, handlers and data logic.
-- [video_hend](https://github.com/RoKols2017/video_hend): Computer vision prototype for hand/face tracking in real time.
-
-## What I Demonstrate
 - architecture thinking
 - prompt design
 - structured outputs
-- evaluation mindset
-- automation
 - LLM integrations
 - multimodal workflows
+- automation
 - technical documentation
 - deployment basics
 
-## Portfolio Direction
+## Направление портфолио
+
 Сейчас я постепенно превращаю GitHub из набора разрозненных учебных и рабочих репозиториев в curated portfolio:
 - оставляю сильные инженерные кейсы публичными
 - дорабатываю README и project structure
 - убираю слабые учебные репозитории из публичной витрины
 - отдельно проверяю безопасность и отсутствие секретов
 
-## Contacts
+## Контакты
+
 - GitHub: [github.com/RoKols2017](https://github.com/RoKols2017)
 - Email: `RoKols2017@gmail.com`
 
-## Open To
+## Открыт к задачам
+
 Интересны задачи, связанные с:
 - Prompt Engineering
 - AI automation and agent workflows
