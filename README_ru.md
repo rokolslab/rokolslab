@@ -1,45 +1,153 @@
-[![English](https://img.shields.io/badge/lang-en-lightgrey.svg)](README.md)
-[![Русский](https://img.shields.io/badge/lang-ru-blue.svg)](README_ru.md)
+[![English](https://img.shields.io/badge/README-English-7F77DD)](README.md)
+[![Русский](https://img.shields.io/badge/README-Русский-1D9E75)](README_ru.md)
 
-<h1 align="center">Привет! Я Роман 👋</h1>
-<p align="center">🔧 Разработчик | 💡 Инженер идей | ☕ Любитель чистого кода</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```text
+> СИСТЕМА  Вы работаете с Роман (RoKols)
+> РОЛЬ     Prompt-инженер · AI-автоматизация · LLM-системы
+> СТЕК     Python · OpenAI API · GigaChat · Docker · Linux
+> КОНТЕКСТ Мурманск, Россия · UTC+3
+> СТАТУС   Открыт к задачам
+> ЦЕЛЬ     Смотри репозитории · пиши на почту если есть задача
+> _
+```
+
+</td>
+<td width="50%" valign="top">
+
+```text
+> SYSTEM   Доступно переключение языка
+> ACTIVE   Русская версия README
+> ALT      Открой README.md для English version
+> _
+```
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-light.svg"
+  />
+  <img
+    alt="token stream - contribution graph as LLM inference"
+    src="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-light.svg"
+    width="100%"
+  />
+</picture>
+
+`// инференс-волна · поток вкладов · обновляется ежедневно в 06:00 UTC`
+
+## // pipelines
 
 ---
 
-<h2>🚀 Избранные проекты</h2>
+### 🖥 [`install_ubuntu`](https://github.com/RoKols2017/install_ubuntu)
 
-<div class="cards-wrapper">
-  <div class="card">
-    <h3><a href="https://github.com/RoKols2017/Evently">📁 Evently</a></h3>
-    <p>Evently — современная платформа для управления мероприятиями.</p>
-    <p><em>Python</em></p>
-  </div>
+```
+[ ВХОД: чистый Ubuntu VPS ] ──▶ [ ПРОЦЕСС: Shell · Docker · n8n · Supabase · pgvector ] ──▶ [ ВЫХОД: AI-инфраструктура готова к запуску ]
+```
 
-  <div class="card">
-    <h3><a href="https://github.com/RoKols2017/sales-analyzer">📊 Sales Analyzer</a></h3>
-    <p>Инструмент для анализа продаж и формирования отчетов.</p>
-    <p><em>Python</em></p>
-  </div>
-
-  <div class="card">
-    <h3><a href="https://github.com/RoKols2017/recipe-platform">🍲 Recipe Platform</a></h3>
-    <p>Сервис для поиска и обмена рецептами.</p>
-    <p><em>Python</em></p>
-  </div>
-
-  <div class="card">
-    <h3><a href="https://github.com/RoKols2017/departments_telegram_bot">🤖 Telegram Bot</a></h3>
-    <p>Бот для управления отделами компании через Telegram.</p>
-    <p><em>Python</em></p>
-  </div>
-</div>
+*DevOps-автоматизация и развёртывание AI-стека с нуля*
 
 ---
 
-## 📫 Как со мной связаться
+### 🎬 [`video_hw_proxyapi`](https://github.com/RoKols2017/video_hw_proxyapi)
 
-- Email: RoKols2017@gmail.com
+```
+[ ВХОД: текстовый промпт + ключ ProxyAPI ] ──▶ [ ПРОЦЕСС: Python · Flask · ProxyAPI · Telegram-бот ] ──▶ [ ВЫХОД: готовое видео в Telegram или браузере ]
+```
+
+*Мультимодальный AI-воркфлоу с несколькими интерфейсами доставки*
 
 ---
 
-⭐️ Спасибо, что заглянул в мой профиль! Не забудь поставить ⭐ на интересные проекты!
+### 🤖 [`my_llm_bot`](https://github.com/RoKols2017/my_llm_bot)
+
+```
+[ ВХОД: сообщение пользователя в Telegram ] ──▶ [ ПРОЦЕСС: aiogram · GigaChat API · YandexGPT API (переключаемый backend) ] ──▶ [ ВЫХОД: ответ LLM с возможностью сравнения backend'ов ]
+```
+
+*Практический prompt engineering на нескольких российских LLM*
+
+---
+
+### 📊 [`advisor-dj`](https://github.com/RoKols2017/advisor-dj)
+
+```
+[ ВХОД: сырые данные печатных событий ] ──▶ [ ПРОЦЕСС: Django · watcher-пайплайн · аналитический движок ] ──▶ [ ВЫХОД: мониторинговый дашборд со структурированной аналитикой ]
+```
+
+*Проектирование data-пайплайна с Django как слоем оркестрации*
+
+## // stack
+
+**AI · LLM**
+
+[![AI Stack](https://skillicons.dev/icons?i=python,openai&theme=dark)](https://skillicons.dev)
+
+`Python · OpenAI API · GigaChat · YandexGPT · Prompt Design · RAG · Structured Outputs · Multimodal`
+
+**Backend · Automation**
+
+[![Backend Stack](https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark)](https://skillicons.dev)
+
+`Flask · Django · aiogram · Telegram bots · HTTP integrations`
+
+**DevOps · Infrastructure**
+
+[![DevOps Stack](https://skillicons.dev/icons?i=docker,linux,nginx,github,bash&theme=dark)](https://skillicons.dev)
+
+`Docker · Linux · VPS · Nginx · GitHub Actions · Bash`
+
+**Tools** *(no icons available)*
+
+`opencode · ai-factory · n8n · Supabase · pgvector · Redis`
+
+## // runtime
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoKols2017&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F77DD&icon_color=1D9E75&text_color=c9c7d4&bg_color=0d1117)
+
+</td>
+<td width="50%" align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoKols2017&theme=tokyonight&hide_border=true&ring=7F77DD&fire=534AB7&currStreakLabel=1D9E75&sideLabels=7F77DD&background=0d1117)
+
+</td>
+</tr>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoKols2017&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&text_color=c9c7d4&bg_color=0d1117&langs_count=6)
+
+## // private context
+
+```diff
++ // 10+ приватных репозитория
++ // назначение: прокачка навыков для production-задач
++ // области:    библиотеки production-промптов · LLM evaluation · рабочие automation-пайплайны
+```
+
+## // contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-RoKols2017-7F77DD?style=flat&logo=github&logoColor=white)](https://github.com/RoKols2017)
+[![Email](https://img.shields.io/badge/Email-RoKols2017@gmail.com-1D9E75?style=flat&logo=gmail&logoColor=white)](mailto:RoKols2017@gmail.com)
+[![Открыт к задачам](https://img.shields.io/badge/Статус-Открыт%20к%20задачам-1D9E75?style=flat)](mailto:RoKols2017@gmail.com)
+
+---
+
+`// Строю AI-системы, которые ведут себя как инженерные — структурные входы, проверяемые выходы, задокументированное поведение.`
+
+`// открыт к задачам: Prompt Engineering · AI-автоматизация · LLM-инструменты · DevOps для AI`

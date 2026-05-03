@@ -1,0 +1,35 @@
+name: Generate token stream
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate token stream SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: RoKols2017
+          outputs: |
+            dist/token-stream-light.svg?color_snake=EEEDFE&color_dots[0]=161b22&color_dots[1]=1D9E7540&color_dots[2]=1D9E75b3&color_dots[3]=534AB7d9&color_dots[4]=7F77DD
+            dist/token-stream-dark.svg?color_snake=EEEDFE&color_dots[0]=0d1117&color_dots[1]=1D9E7540&color_dots[2]=1D9E75b3&color_dots[3]=534AB7d9&color_dots[4]=7F77DD
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
