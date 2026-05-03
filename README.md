@@ -1,9 +1,4 @@
-[![English](https://img.shields.io/badge/README-English-7F77DD)](README.md)
-[![Русский](https://img.shields.io/badge/README-Русский-1D9E75)](README_ru.md)
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+[![🇷🇺 Читать на русском](https://img.shields.io/badge/README-Русский-1D9E75?style=flat)](README_ru.md)
 
 ```text
 > SYSTEM   You are working with Roman (RoKols)
@@ -15,32 +10,18 @@
 > _
 ```
 
-</td>
-<td width="50%" valign="top">
-
-```text
-> SYSTEM   Language switch available
-> ACTIVE   English README
-> ALT      Open README_ru.md for Russian version
-> _
-```
-
-</td>
-</tr>
-</table>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-dark.svg"
+    srcset="https://raw.githubusercontent.com/RoKols2017/RoKols2017/output/token-stream-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-light.svg"
+    srcset="https://raw.githubusercontent.com/RoKols2017/RoKols2017/output/token-stream-light.svg"
   />
   <img
-    alt="token stream - contribution graph as LLM inference"
-    src="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-light.svg"
+    alt="token stream — contribution graph as LLM inference"
+    src="https://raw.githubusercontent.com/RoKols2017/RoKols2017/output/token-stream-light.svg"
     width="100%"
   />
 </picture>

@@ -1,12 +1,7 @@
-[![English](https://img.shields.io/badge/README-English-7F77DD)](README.md)
-[![Русский](https://img.shields.io/badge/README-Русский-1D9E75)](README_ru.md)
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+[![🇬🇧 Read in English](https://img.shields.io/badge/README-English-7F77DD?style=flat)](README.md)
 
 ```text
-> СИСТЕМА  Вы работаете с Роман (RoKols)
+> СИСТЕМА  Вы работаете с Романом (RoKols)
 > РОЛЬ     Prompt-инженер · AI-автоматизация · LLM-системы
 > СТЕК     Python · OpenAI API · GigaChat · Docker · Linux
 > КОНТЕКСТ Мурманск, Россия · UTC+3
@@ -15,39 +10,25 @@
 > _
 ```
 
-</td>
-<td width="50%" valign="top">
-
-```text
-> SYSTEM   Доступно переключение языка
-> ACTIVE   Русская версия README
-> ALT      Открой README.md для English version
-> _
-```
-
-</td>
-</tr>
-</table>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-dark.svg"
+    srcset="https://raw.githubusercontent.com/RoKols2017/RoKols2017/output/token-stream-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-light.svg"
+    srcset="https://raw.githubusercontent.com/RoKols2017/RoKols2017/output/token-stream-light.svg"
   />
   <img
-    alt="token stream - contribution graph as LLM inference"
-    src="https://raw.githubusercontent.com/RoKols2017/github_profile/output/token-stream-light.svg"
+    alt="поток токенов — contribution graph как LLM-инференс"
+    src="https://raw.githubusercontent.com/RoKols2017/RoKols2017/output/token-stream-light.svg"
     width="100%"
   />
 </picture>
 
 `// инференс-волна · поток вкладов · обновляется ежедневно в 06:00 UTC`
 
-## // pipelines
+## // пайплайны
 
 ---
 
@@ -89,7 +70,7 @@
 
 *Проектирование data-пайплайна с Django как слоем оркестрации*
 
-## // stack
+## // стек
 
 **AI · LLM**
 
@@ -97,34 +78,34 @@
 
 `Python · OpenAI API · GigaChat · YandexGPT · Prompt Design · RAG · Structured Outputs · Multimodal`
 
-**Backend · Automation**
+**Backend · Автоматизация**
 
 [![Backend Stack](https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark)](https://skillicons.dev)
 
-`Flask · Django · aiogram · Telegram bots · HTTP integrations`
+`Flask · Django · aiogram · Telegram-боты · HTTP-интеграции`
 
-**DevOps · Infrastructure**
+**DevOps · Инфраструктура**
 
 [![DevOps Stack](https://skillicons.dev/icons?i=docker,linux,nginx,github,bash&theme=dark)](https://skillicons.dev)
 
 `Docker · Linux · VPS · Nginx · GitHub Actions · Bash`
 
-**Tools** *(no icons available)*
+**Инструменты** *(нет иконок)*
 
 `opencode · ai-factory · n8n · Supabase · pgvector · Redis`
 
-## // runtime
+## // статистика
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoKols2017&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F77DD&icon_color=1D9E75&text_color=c9c7d4&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoKols2017&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F77DD&icon_color=1D9E75&text_color=c9c7d4&bg_color=0d1117&locale=ru)
 
 </td>
 <td width="50%" align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoKols2017&theme=tokyonight&hide_border=true&ring=7F77DD&fire=534AB7&currStreakLabel=1D9E75&sideLabels=7F77DD&background=0d1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoKols2017&theme=tokyonight&hide_border=true&ring=7F77DD&fire=534AB7&currStreakLabel=1D9E75&sideLabels=7F77DD&background=0d1117&locale=ru)
 
 </td>
 </tr>
@@ -132,15 +113,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoKols2017&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD&text_color=c9c7d4&bg_color=0d1117&langs_count=6)
 
-## // private context
+## // приватный контекст
 
 ```diff
-+ // 10+ приватных репозитория
++ // 10+ приватных репозиториев
 + // назначение: прокачка навыков для production-задач
 + // области:    библиотеки production-промптов · LLM evaluation · рабочие automation-пайплайны
 ```
 
-## // contact
+## // контакты
 
 [![GitHub](https://img.shields.io/badge/GitHub-RoKols2017-7F77DD?style=flat&logo=github&logoColor=white)](https://github.com/RoKols2017)
 [![Email](https://img.shields.io/badge/Email-RoKols2017@gmail.com-1D9E75?style=flat&logo=gmail&logoColor=white)](mailto:RoKols2017@gmail.com)
