@@ -51,7 +51,7 @@ A multimodal assistant for a practical business workflow, from input processing 
 
 ## Contact
 
-- GitHub: [RoKols2017](https://github.com/RoKols2017)
+- GitHub: [rokolslab](https://github.com/rokolslab)
 - Email: [RoKols2017@gmail.com](mailto:RoKols2017@gmail.com)
 
 `AI tools, backend, automation, LLM workflows, Telegram bots, Linux/VPS, self-hosted infrastructure.`
