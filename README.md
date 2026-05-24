@@ -25,27 +25,27 @@ My focus is not demo-for-demo's-sake projects, but practical systems with clear 
 
 ## Selected Projects
 
-### [`lead_scriptor`](https://github.com/RoKols2017/lead_scriptor)
+### [`lead_scriptor`](https://github.com/rokolslab/lead_scriptor)
 
 An AI workflow builder with step-by-step logic, controlled outputs, and practical results.
 
-### [`install_ubuntu`](https://github.com/RoKols2017/install_ubuntu)
+### [`install_ubuntu`](https://github.com/rokolslab/install_ubuntu)
 
 Scripts and setup for preparing VPS/Linux environments for AI services, automation, and self-hosted projects.
 
-### [`video_hw_proxyapi`](https://github.com/RoKols2017/video_hw_proxyapi)
+### [`video_hw_proxyapi`](https://github.com/rokolslab/video_hw_proxyapi)
 
 A multimodal AI application with web and Telegram interfaces for working with video, text, and external APIs.
 
-### [`hr-copilot`](https://github.com/RoKols2017/hr-copilot)
+### [`hr-copilot`](https://github.com/rokolslab/hr-copilot)
 
 An LLM-based HR support system that structures data, helps compare candidates, and reduces manual routine.
 
-### [`advisor-dj`](https://github.com/RoKols2017/advisor-dj)
+### [`advisor-dj`](https://github.com/rokolslab/advisor-dj)
 
 A backend project with an automated analytics pipeline and an architecture close to production-style delivery.
 
-### [`sto-assistant`](https://github.com/RoKols2017/sto-assistant)
+### [`sto-assistant`](https://github.com/rokolslab/sto-assistant)
 
 A multimodal assistant for a practical business workflow, from input processing to a clear user-facing result.
 
